@@ -1,0 +1,3 @@
+D:\Учеба\ДЗ\алгоритмизация и программирование\l7\Lab7\Array\Debug\Array.vcxprojAssemblyReference.cache
+D:\Учеба\ДЗ\алгоритмизация и программирование\l7\Lab7\Array\Debug\Array.MainForm.resources
+D:\Учеба\ДЗ\алгоритмизация и программирование\l7\Lab7\Array\Debug\Array.vcxproj.GenerateResource.cache
